@@ -3,8 +3,13 @@
 }
 
 .recipe {
+    background: red;
+    border: 3px solid green;
     list-style-position: inside;
     font-weight: bold;
+    padding: 8px;
+    margin: 8px auto;
+    display: block;
 }
 
 .front_img {
